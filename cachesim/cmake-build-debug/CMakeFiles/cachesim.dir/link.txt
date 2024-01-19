@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/cachesim.dir/main.c.o CMakeFiles/cachesim.dir/cache.c.o -o cachesim 

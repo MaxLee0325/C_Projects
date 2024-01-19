@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/users/cs/yongteng/tmp/tmp.iUBZCBoFsF/linkedlist.h
+
+/users/cs/yongteng/tmp/tmp.iUBZCBoFsF/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+stdbool.h
+-
+linkedlist.h
+/users/cs/yongteng/tmp/tmp.iUBZCBoFsF/linkedlist.h
+

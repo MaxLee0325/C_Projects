@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/mazedev.dir/main.c.o CMakeFiles/mazedev.dir/linkedlist.c.o -o mazedev 

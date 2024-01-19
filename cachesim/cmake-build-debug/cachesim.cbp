@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cachesim"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j32 -f &quot;/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j32 -f &quot;/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j32 -f &quot;/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j32 -f &quot;/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j32 -f &quot;/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j32 -f &quot;/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j32 -f &quot;/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j32 -f &quot;/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j32 -f &quot;/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j32 -f &quot;/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j32 -f &quot;/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j32 -f &quot;/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cachesim">
+				<Option output="/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug/cachesim" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j32 -f &quot;/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug/Makefile&quot;  VERBOSE=1 cachesim"/>
+					<CompileFile command="/usr/bin/gmake -j32 -f &quot;/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j32 -f &quot;/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j32 -f &quot;/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cachesim/fast">
+				<Option output="/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug/cachesim" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j32 -f &quot;/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug/Makefile&quot;  VERBOSE=1 cachesim/fast"/>
+					<CompileFile command="/usr/bin/gmake -j32 -f &quot;/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j32 -f &quot;/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j32 -f &quot;/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cache.c">
+			<Option target="cachesim"/>
+		</Unit>
+		<Unit filename="/users/cs/yongteng/tmp/tmp.puFQgXhvqF/cache.h">
+			<Option target="cachesim"/>
+		</Unit>
+		<Unit filename="/users/cs/yongteng/tmp/tmp.puFQgXhvqF/main.c">
+			<Option target="cachesim"/>
+		</Unit>
+		<Unit filename="/users/cs/yongteng/tmp/tmp.puFQgXhvqF/main.h">
+			<Option target="cachesim"/>
+		</Unit>
+		<Unit filename="/users/cs/yongteng/tmp/tmp.puFQgXhvqF/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
